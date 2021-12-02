@@ -9,15 +9,15 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/vanzasetia/vanzasetia?color=green&style=for-the-badge">
 </p>
 
-## :question: Who are you?
+## :question: Who are I?
 
-I'm Vanza Setia, a passionate beginner on frontend web development who likes following best practices when doing Frontend Mentor projects and helping people by giving them truthful feedbacks. Besides coding, I also enjoy reading comics and playing video games. :smile:
+I'm Anurag Gupta, a passionate beginner on frontend web development who likes following best practices when doing Frontend Mentor projects and helping people by giving them truthful feedbacks. Besides coding, I also enjoy reading comics and playing video games. :smile:
 
 I love building things with code, especially a website. When, I was a kid I really wish that I could make a website share it to the world. Now, I am learning on how to create websites to get a job as a Junior Frontend Web Developer.
 
 ## :star: Skills
 
-HTML, CSS, Sass, JavaScript, Linux Command Line, Git (using git bash), and basic web accessibility.
+HTML, CSS, Sass, JavaScript, MERN stack, Linux Command Line, Git (using git bash), and basic web accessibility.
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="auto" height="70"/>
@@ -30,7 +30,7 @@ HTML, CSS, Sass, JavaScript, Linux Command Line, Git (using git bash), and basic
 
 ## :books: What are you currently learning?
 
-Right now, I'm learning Vanilla JavaScript, Git, Search Engine Optimization, Web Accessibility, and much more. But, my main focus is sharpening my JavaScript skill by doing [Frontend Mentor challenges](https://www.frontendmentor.io/challenges/).
+Right now, I'm learning ReactJS, Git, Search Engine Optimization, Web Accessibility, and much more. But, my main focus is sharpening my JavaScript skill by doing [Frontend Mentor challenges](https://www.frontendmentor.io/challenges/).
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="auto" height="70"/>
@@ -41,44 +41,40 @@ Right now, I'm learning Vanilla JavaScript, Git, Search Engine Optimization, Web
 
 ## :eyes: How can I connect with you?
 
-You can email me through <a href="mailto: venusbumi2@gmail.com">Gmail</a> or you can DM me on [Twitter](https://twitter.com/vanzasetia). You can talk to me about coding in general.
+You can email me through <a href="mailto: agsuperstar1142@gmail.com">Gmail</a>
+
+<!-- or you can DM me on [Twitter](https://twitter.com/vanzasetia). You can talk to me about coding in general. -->
 
 I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.slack.com), you can chat with me there too.
 
 <p align="left">
-  <a href="mailto:venusbumi2@gmail.com" target="_blank"><img src="https://git.io/JrCxc" alt="Gmail." width="auto" height="60px"></a> &nbsp;
-  <a href="https://twitter.com/vanzasetia" target="_blank"><img src="https://git.io/JrCAv" alt="Twitter." height="60px"></a> &nbsp;
+  <a href="mailto:agsuperstar1142@gmail.com" target="_blank"><img src="https://git.io/JrCxc" alt="Gmail." width="auto" height="60px"></a> &nbsp;
+  <!-- <a href="https://twitter.com/vanzasetia" target="_blank"><img src="https://git.io/JrCAv" alt="Twitter." height="60px"></a> &nbsp; -->
   <img src="https://git.io/JrCp7" alt="Slack." height="60px">
 </p>
 
-## :book: Blog Posts
+<!-- ## :book: Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 
-- [How I handle the Accordion Functionality [Walkthrough]](https://community.codenewbie.org/vanzasetia/how-i-handle-the-accordion-functionality-walkthrough-29n0)
+<!-- - [How I handle the Accordion Functionality [Walkthrough]](https://community.codenewbie.org/vanzasetia/how-i-handle-the-accordion-functionality-walkthrough-29n0)
 - [Recursion In Programming (Simplified Version)](https://community.codenewbie.org/vanzasetia/recursion-in-programming-simplified-version-2792)
 - [Random Quote Generator](https://community.codenewbie.org/vanzasetia/random-quote-generator-a8o)
-- [Relative vs Absolute File Paths](https://community.codenewbie.org/vanzasetia/relative-vs-absolute-file-paths-4j1n)
+- [Relative vs Absolute File Paths](https://community.codenewbie.org/vanzasetia/relative-vs-absolute-file-paths-4j1n) -->
 <!-- BLOG-POST-LIST:END -->
 
 ## :bar_chart: GitHub Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=vanzasetia&show_icons=true&locale=en)
+![Github stats](https://github-readme-stats.vercel.app/api?username=super1-1star&show_icons=true&locale=en)
 
-![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=vanzasetia&show_icons=true&locale=en&layout=compact)
+![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=super1-1star&show_icons=true&locale=en&layout=compact)
 
-![github streak](https://github-readme-streak-stats.herokuapp.com/?user=vanzasetia&)
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user=super1-1star&)
 
 ## :trophy: Trophy
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanzasetia" alt="vanzasetia" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=super1-1star" alt="super1-1star" /></a> </p>
 
 ## :blush: Thank You For Reading The `README`!
 
 ![Thank you](https://git.io/JrCj7)
-
----
-
-Credit: [vanzasetia](https://github.com/vanzasetia)
-
-Last Edited on: 08/10/2021
