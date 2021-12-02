@@ -2,12 +2,12 @@
 
 ![Banner](https://git.io/JrCSm)
 
-<p align="left">
-  <a href="https://twitter.com/vanzasetia" target="_blank"><img src="https://img.shields.io/twitter/follow/vanzasetia?logo=twitter&style=for-the-badge" alt="Twitter followers." /></a> 
-  <a href="https://www.frontendmentor.io/profile/vanzasetia" target="_blank"><img src="https://img.shields.io/badge/Frontend Mentor-Vanza Setia-informational?style=for-the-badge&logo=frontendmentor" alt="My frontendmentor profile." /></a> 
+<!-- <p align="left">
+  <a href="https://twitter.com/vanzasetia" target="_blank"><img src="https://img.shields.io/twitter/follow/vanzasetia?logo=twitter&style=for-the-badge" alt="Twitter followers." /></a>
+  <a href="https://www.frontendmentor.io/profile/vanzasetia" target="_blank"><img src="https://img.shields.io/badge/Frontend Mentor-Vanza Setia-informational?style=for-the-badge&logo=frontendmentor" alt="My frontendmentor profile." /></a>
   <a href="https://linktr.ee/vanzasetia" target="_blank"><img src="https://img.shields.io/badge/Linktree-Vanza Setia-brightgreen?style=for-the-badge&logo=linktree" alt="Linktree" /></a>
   <img alt="GitHub" src="https://img.shields.io/github/license/vanzasetia/vanzasetia?color=green&style=for-the-badge">
-</p>
+</p> -->
 
 ## :question: Who are I?
 
