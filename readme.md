@@ -17,7 +17,7 @@ I love building things with code, especially a website. When, I was a kid I real
 
 ## :star: Skills
 
-HTML, CSS, Sass, JavaScript, MERN stack, Linux Command Line, Git (using git bash), and basic web accessibility.
+HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, NodeJ, MongoDB, SQL, MERN stack, Linux Command Line, Git (using git bash), and basic web accessibility.
 
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> 
@@ -36,13 +36,14 @@ HTML, CSS, Sass, JavaScript, MERN stack, Linux Command Line, Git (using git bash
 
 ## :books: What are you currently learning?
 
-Right now, I'm learning ReactJS, Git, Search Engine Optimization, Web Accessibility, and much more. But, my main focus is sharpening my JavaScript skill by doing [Frontend Mentor challenges](https://www.frontendmentor.io/challenges/).
+Right now, I'm learning Javascript, ReactJS, MonogoDB, Web Accessibility, and much more. But, my main focus is sharpening my Advance JavaScript skill.
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="auto" height="70"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="auto" height="70"/>
-  <img src="https://git.io/JrC5i" alt="seo" width="auto" height="70"/>
-  <img src="https://git.io/JrCQk" alt="web accessibility" width="auto" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+  <img src="https://git.io/JrCQk" alt="web accessibility" width="50" height="50"/>
 </p>
 
 ## :eyes: How can I connect with you?
