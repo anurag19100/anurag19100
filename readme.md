@@ -20,12 +20,20 @@ I love building things with code, especially a website. When, I was a kid I real
 HTML, CSS, Sass, JavaScript, MERN stack, Linux Command Line, Git (using git bash), and basic web accessibility.
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="auto" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="auto" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="auto" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="auto" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="auto" height="70" />
-  <img src="https://git.io/JrCQk" alt="web accessibility" width="auto" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/>
+<img src="https://github.com/devicon  s/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next JS" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material-UI" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/>
+
 </p>
 
 ## :books: What are you currently learning?
@@ -53,16 +61,6 @@ I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.s
   <img src="https://git.io/JrCp7" alt="Slack." height="60px">
 </p>
 
-<!-- ## :book: Blog Posts -->
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- - [How I handle the Accordion Functionality [Walkthrough]](https://community.codenewbie.org/vanzasetia/how-i-handle-the-accordion-functionality-walkthrough-29n0)
-- [Recursion In Programming (Simplified Version)](https://community.codenewbie.org/vanzasetia/recursion-in-programming-simplified-version-2792)
-- [Random Quote Generator](https://community.codenewbie.org/vanzasetia/random-quote-generator-a8o)
-- [Relative vs Absolute File Paths](https://community.codenewbie.org/vanzasetia/relative-vs-absolute-file-paths-4j1n) -->
-<!-- BLOG-POST-LIST:END -->
-
 ## :bar_chart: GitHub Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=super1-1star&show_icons=true&locale=en)
@@ -70,11 +68,3 @@ I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.s
 ![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=super1-1star&show_icons=true&locale=en&layout=compact)
 
 ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=super1-1star&)
-
-## :trophy: Trophy
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=super1-1star" alt="super1-1star" /></a> </p>
-
-## :blush: Thank You For Reading The `README`!
-
-![Thank you](https://git.io/JrCj7)
