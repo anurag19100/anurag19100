@@ -1,19 +1,28 @@
-# :wave: Hello Everyone!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Shashank Kumar!
 
-![Banner](https://git.io/JrCSm)
+<a href="https://www.linkedin.com/in/shashank-kumar-a60aa518b/">
+  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-<!-- <p align="left">
-  <a href="https://twitter.com/vanzasetia" target="_blank"><img src="https://img.shields.io/twitter/follow/vanzasetia?logo=twitter&style=for-the-badge" alt="Twitter followers." /></a>
-  <a href="https://www.frontendmentor.io/profile/vanzasetia" target="_blank"><img src="https://img.shields.io/badge/Frontend Mentor-Vanza Setia-informational?style=for-the-badge&logo=frontendmentor" alt="My frontendmentor profile." /></a>
-  <a href="https://linktr.ee/vanzasetia" target="_blank"><img src="https://img.shields.io/badge/Linktree-Vanza Setia-brightgreen?style=for-the-badge&logo=linktree" alt="Linktree" /></a>
-  <img alt="GitHub" src="https://img.shields.io/github/license/vanzasetia/vanzasetia?color=green&style=for-the-badge">
-</p> -->
+---
 
-## :question: Who are I?
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=790b76110c8dfc83277236ba0915f9dbc04ecf4d9625fd1c&rid=giphy.gif&ct=g" width="400" height="320"/>
 
-I'm Anurag Gupta, a passionate beginner on frontend web development who likes following best practices when doing Frontend Mentor projects and helping people by giving them truthful feedbacks. Besides coding, I also enjoy reading comics and playing video games. :smile:
+A Pre-final year computer science undergraduate at IIIT Naya Raipur
 
-I love building things with code, especially a website. When, I was a kid I really wish that I could make a website share it to the world. Now, I am learning on how to create websites to get a job as a Junior Frontend Web Developer.
+I have decent knowledge of HTML, CSS, JavaScript, ReactJS, NodeJS and C++, with a basic understanding of NextJS.
+
+Earlier interned as a Frontend Developer at Envir AI, and currently an open source contributor at Real Dev SQuad community.
+
+<!-- there i expanded my knowledge in Forntend and learned new technologies like VueJS, SQL, MVC architecture and more. -->
+
+<!-- A open source source contributor at Real Dev Squad community. -->
+
+=-----------------------------------------------------------------
+
+Currently Looking for a software intern position in similiar domain.
+
+💼 Feel free to drop me a 📧 at **shashankkumar2023@gmail.com**
 
 ## :star: Skills
 
@@ -59,11 +68,9 @@ I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.s
   <!-- <a href="https://twitter.com/vanzasetia" target="_blank"><img src="https://git.io/JrCAv" alt="Twitter." height="60px"></a> &nbsp; -->
   <img src="https://git.io/JrCp7" alt="Slack." height="60px">
 </p>
+--
 
-## :bar_chart: GitHub Stats
+## &#x1f4c8; My GitHub Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=super1-1star&show_icons=true&locale=en)
-
-![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=super1-1star&show_icons=true&locale=en&layout=compact)
-
-![github streak](https://github-readme-streak-stats.herokuapp.com/?user=super1-1star&)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=super1-1star&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=super1-1star&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
