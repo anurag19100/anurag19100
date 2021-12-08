@@ -72,5 +72,5 @@ I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.s
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=super1-1star&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=super1-1star&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=super1-1star&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
