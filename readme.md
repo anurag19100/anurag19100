@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://media4.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=790b76110c8dfc83277236ba0915f9dbc04ecf4d9625fd1c&rid=giphy.gif&ct=g" width="400" height="320"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="320"/>
 
 A Pre-final year computer science undergraduate at IIIT Naya Raipur
 
