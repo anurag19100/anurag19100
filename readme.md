@@ -43,7 +43,7 @@ HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, NodeJ, MongoDB, SQL, MERN stack
 
 </p>
 
-## :books: What are you currently learning?
+## :books: What am I currently learning?
 
 Right now, I'm learning Javascript, ReactJS, MonogoDB, Web Accessibility, and much more. But, my main focus is sharpening my Advance JavaScript skill.
 
