@@ -17,10 +17,10 @@ Currently Looking for a software intern position in similiar domain.
 Feel free to drop me a 📧 at **anurag19100@gmail.com**
 -----------------------------------------------------------------
 ### Connect with me:
-<p align="left"> 
-<a href="https://www.linkedin.com/in/anurag19100/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"" alt="nextjs" height="30"/> </a>
-<a href="https://twitter.com/Superstar_1_1" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"" alt="nextjs" height="30"/> </a>
-<a href="https://anurag-cv.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="nextjs" height="30"/> </a>
+<p align="left" > 
+<a href="https://www.linkedin.com/in/anurag19100/" target="_blank" rel="noreferrer" style="margin-right: 20px;" > <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"" alt="nextjs" height="30"/> </a>
+<a href="https://twitter.com/Superstar_1_1" target="_blank" rel="noreferrer" style="margin-right: 20px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"" alt="nextjs" height="30"/> </a>
+<a href="https://anurag-cv.netlify.app/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="nextjs" height="30"/> </a>
 </p>
 
 <br />
@@ -29,28 +29,28 @@ Feel free to drop me a 📧 at **anurag19100@gmail.com**
 
 <p align="left"> 
 
-<code> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="30"/> </a> </code> 
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="30"/> </a> </code> 
-<code> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="30"/> </a> </code>
-<code>  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> </code>
-<code> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="30"/> </a> </code> <code> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30"/> </a> </code>
-<code> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="30"/> </a> </code>
-<code> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="30"/> </a> </code>
-<code> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="30"/> </a> </code>
-<code> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30"/> </a> </code>
-<code> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="30"/> </a> </code> 
-<code> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="30"/> </a> </code>
-<code> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height= "30"/> </a> </code>
-<code> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"/> </a> </code> 
-<code> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="30"/> </a> </code>
-<code> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/64637806/118023892-f8a3ab80-b355-11eb-9d15-387bb21416ea.png" alt="git" height="30"/> </a> </code> 
-<code> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" height="30"/> </a> </code>
-<code> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="30"/> </a> </code> 
-<code> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="30"/> </a> </code>
+<code> <a href="https://nextjs.org/" target="_blank" rel="noreferrer" > <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="30"/> </a> </code> 
+<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="30"/> </a> </code> 
+<code> <a href="https://nodejs.org" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="30"/> </a> </code>
+<code>  <a href="https://expressjs.com" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> </code>
+<code> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="30"/> </a> </code> <code> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30"/> </a> </code>
+<code> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="30"/> </a> </code>
+<code> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="30"/> </a> </code>
+<code> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="30"/> </a> </code>
+<code> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30"/> </a> </code>
+<code> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="30"/> </a> </code> 
+<code> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="30"/> </a> </code>
+<code> <a href="https://www.python.org" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height= "30"/> </a> </code>
+<code> <a href="https://redux.js.org" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"/> </a> </code> 
+<code> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="30"/> </a> </code>
+<code> <a href="https://git-scm.com/" target="_blank" rel="noreferrer" > <img src="https://user-images.githubusercontent.com/64637806/118023892-f8a3ab80-b355-11eb-9d15-387bb21416ea.png" alt="git" height="30"/> </a> </code> 
+<code> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" height="30"/> </a> </code>
+<code> <a href="https://www.figma.com/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="30"/> </a> </code> 
+<code> <a href="https://www.linux.org/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="30"/> </a> </code>
 </p>
 
 
-<!-- <code><code> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" height="30"/> </a> </code> </code>
+<!-- <code><code> <a href="https://babeljs.io/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" height="30"/> </a> </code> </code>
 <code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023881-f6d9e800-b355-11eb-8378-5fedd65fed8f.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
