@@ -15,14 +15,14 @@ Currently Looking for a software intern position in similiar domain.
 </p>
 
 Feel free to drop me a 📧 at **anurag19100@gmail.com**
------------------------------------------------------------------
+
 ### Connect with me:
 <p align="left" > 
 <a href="https://www.linkedin.com/in/anurag19100/" target="_blank" rel="noreferrer" style="margin-right: 20px;" > <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"" alt="nextjs" height="30"/> </a>
 <a href="https://twitter.com/Superstar_1_1" target="_blank" rel="noreferrer" style="margin-right: 20px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"" alt="nextjs" height="30"/> </a>
 <a href="https://anurag-cv.netlify.app/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="nextjs" height="30"/> </a>
 </p>
-
+-----------------------------------------------------------------
 <br />
 
 ## Languages and Tools I use:
@@ -88,5 +88,5 @@ I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.s
 
 ## &#x1f4c8; My GitHub Stats
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=super1-1star&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=super1-1star&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=super1-1star&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
