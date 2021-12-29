@@ -1,8 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Anurag Gupta!
 
-<code> <a href="https://www.linkedin.com/in/anurag-gupta-024a93191/">
+<a href="https://www.linkedin.com/in/anurag-gupta-024a93191/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> 
 
 ---
 
@@ -26,7 +26,7 @@ Currently Looking for a software intern position in similiar domain.
 
 <br>
 
-### Languages and Tools I use:
+## Languages and Tools I use:
 
 
 <p align="left"> 
@@ -46,9 +46,8 @@ Currently Looking for a software intern position in similiar domain.
 <code> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height= "30"/> </a> </code>
 <code> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"/> </a> </code> 
 <code> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="30"/> </a> </code>
-<code> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="<img height="20" src="https://user-images.githubusercontent.com/64637806/118023892-f8a3ab80-b355-11eb-9d15-387bb21416ea.png" alt="git" height="30"/> </a> </code>
+<code> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/64637806/118023892-f8a3ab80-b355-11eb-9d15-387bb21416ea.png" alt="git" height="30"/> </a> </code>
 <!-- <code> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" height="30"/> </a></code>    -->
-
 <code> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" height="30"/> </a> </code>
 <code> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="30"/> </a> </code> 
 <code> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="30"/> </a> </code>
@@ -74,17 +73,7 @@ Currently Looking for a software intern position in similiar domain.
 <br>
 
 
-## :books: What am I currently learning?
 
-Right now, I'm learning Javascript, ReactJS, MonogoDB, Web Accessibility, and much more. But, my main focus is sharpening my Advance JavaScript skill.
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="auto" height="70"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  <img src="https://git.io/JrCQk" alt="web accessibility" width="50" height="50"/>
-</p>
 
 <!-- ## :eyes: How can I connect with you?
 
