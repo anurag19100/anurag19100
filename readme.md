@@ -28,7 +28,7 @@ Currently Looking for a software intern position in similiar domain.
 
 ### Languages and Tools I use:
 
-<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023878-f6415180-b355-11eb-940f-66432cfabac2.png"></code>
+<code><a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> </code>
 <code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023881-f6d9e800-b355-11eb-8378-5fedd65fed8f.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
