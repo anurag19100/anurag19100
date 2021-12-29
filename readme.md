@@ -24,24 +24,28 @@ Currently Looking for a software intern position in similiar domain.
 
 💼 Feel free to drop me a 📧 at **agsuperstar1142@gmail.com**
 
-## :star: Skills
+<br>
 
-HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, NodeJ, MongoDB, SQL, MERN stack, Linux Command Line, Git (using git bash), and basic web accessibility.
+### Languages and Tools I use:
 
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material-UI" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/>
+<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023878-f6415180-b355-11eb-940f-66432cfabac2.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023881-f6d9e800-b355-11eb-8378-5fedd65fed8f.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023895-f8a3ab80-b355-11eb-8e29-cfa06d2076d4.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023887-f7727e80-b355-11eb-82f2-636123b8098e.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023888-f80b1500-b355-11eb-85b4-b072a8a395fa.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023882-f7727e80-b355-11eb-9657-5d73609889dc.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118024503-aadb7300-b356-11eb-9d5b-f65acb4e014b.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023892-f8a3ab80-b355-11eb-9d15-387bb21416ea.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023890-f80b1500-b355-11eb-869c-83ffb7363a0a.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023899-f93c4200-b355-11eb-85c5-ed1929c17f4c.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023901-f93c4200-b355-11eb-967e-a2e6da5939cf.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023904-f93c4200-b355-11eb-9d51-d8569f167498.png"></code>
 
-</p>
+<br>
+
 
 ## :books: What am I currently learning?
 
