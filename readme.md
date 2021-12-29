@@ -41,10 +41,9 @@ Currently Looking for a software intern position in similiar domain.
 <code> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> </code>
 <code> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> </code>
 <code> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> </code>
-
 <code> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> </code> 
 <code> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> </code>
-<code> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> </code>
+<code> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height= "30"/> </a> </code>
 <code> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> </code>
 <code> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> </code>
 <code> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="30" height="30"/> </a></code>   
@@ -55,7 +54,7 @@ Currently Looking for a software intern position in similiar domain.
 </p>
 
 
-<!-- <code><code> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="30" height="30"/> </a> </code> </code>
+<code><code> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="30" height="30"/> </a> </code> </code>
 <code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023881-f6d9e800-b355-11eb-8378-5fedd65fed8f.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -69,7 +68,7 @@ Currently Looking for a software intern position in similiar domain.
 <code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023890-f80b1500-b355-11eb-869c-83ffb7363a0a.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023899-f93c4200-b355-11eb-85c5-ed1929c17f4c.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023901-f93c4200-b355-11eb-967e-a2e6da5939cf.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023904-f93c4200-b355-11eb-9d51-d8569f167498.png"></code> -->
+<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023904-f93c4200-b355-11eb-9d51-d8569f167498.png"></code>
 
 <br>
 
