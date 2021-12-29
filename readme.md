@@ -17,13 +17,11 @@ Currently Looking for a software intern position in similiar domain.
 Feel free to drop me a 📧 at **anurag19100@gmail.com**
 -----------------------------------------------------------------
 ### Connect with me:
-
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="30"/> </a>
-<a href="" target="_blank>
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> 
-<a>
-<a href="" target="_blank><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a>
-<a href="" target="_blank><img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> <a>
+<p align="left"> 
+<a href="https://www.linkedin.com/in/anurag19100/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"" alt="nextjs" height="30"/> </a>
+<a href="https://twitter.com/Superstar_1_1" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"" alt="nextjs" height="30"/> </a>
+<a href="https://anurag-cv.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="nextjs" height="30"/> </a>
+</p>
 
 <br />
 
