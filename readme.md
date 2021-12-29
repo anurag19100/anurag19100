@@ -13,6 +13,7 @@ I am a pre-final C.S.E. student at IIIT Naya Raipur, who has solid foundations i
 
 Currently Looking for a software intern position in similiar domain.
 </p>
+
 Feel free to drop me a 📧 at **anurag19100@gmail.com**
 -----------------------------------------------------------------
 <br>
