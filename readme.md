@@ -8,7 +8,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 
-<p style="text-align:justify;" align="left"> 
+<p  align="left"> 
 I am a pre-final C.S.E. student at IIIT Naya Raipur, who has solid foundations in Data Structures and Algorithms with a decent knowledge of MERN stack and experience in building interactive and user-centered websites designs. Also interested in Machine Learning and graphics design. A team player who loves to work with people from different domains and learn from their experiences.
 
 Currently Looking for a software intern position in similiar domain.
