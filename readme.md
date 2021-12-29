@@ -18,7 +18,7 @@ Feel free to drop me a 📧 at **anurag19100@gmail.com**
 -----------------------------------------------------------------
 ### Connect with me:
 
-
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="30"/> </a>
 <a href="" target="_blank>
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> 
 <a>
