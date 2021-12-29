@@ -16,13 +16,13 @@ Currently Looking for a software intern position in similiar domain.
 
 Feel free to drop me a 📧 at **anurag19100@gmail.com**
 
-### Connect with me:
+## Connect with me:
 <p align="left" > 
 <a href="https://www.linkedin.com/in/anurag19100/" target="_blank" rel="noreferrer"  > <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"" alt="nextjs" height="30" style="margin-right: 200px;"/> </a>
 <a href="https://twitter.com/Superstar_1_1" target="_blank" rel="noreferrer" "> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"" alt="nextjs" height="30" style="margin-right: 20px;"/> </a>
 <a href="https://anurag-cv.netlify.app/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="nextjs" height="30" style="margin-right: 20px;"/> </a>
 </p>
------------------------------------------------------------------
+
 <br />
 
 ## Languages and Tools I use:
@@ -50,21 +50,6 @@ Feel free to drop me a 📧 at **anurag19100@gmail.com**
 </p>
 
 
-<!-- <code><code> <a href="https://babeljs.io/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" height="30"/> </a> </code> </code>
-<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023881-f6d9e800-b355-11eb-8378-5fedd65fed8f.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023895-f8a3ab80-b355-11eb-8e29-cfa06d2076d4.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023887-f7727e80-b355-11eb-82f2-636123b8098e.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023888-f80b1500-b355-11eb-85b4-b072a8a395fa.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023882-f7727e80-b355-11eb-9657-5d73609889dc.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118024503-aadb7300-b356-11eb-9d5b-f65acb4e014b.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023892-f8a3ab80-b355-11eb-9d15-387bb21416ea.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023890-f80b1500-b355-11eb-869c-83ffb7363a0a.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023899-f93c4200-b355-11eb-85c5-ed1929c17f4c.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023901-f93c4200-b355-11eb-967e-a2e6da5939cf.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023904-f93c4200-b355-11eb-9d51-d8569f167498.png"></code> -->
 
 <br>
 
