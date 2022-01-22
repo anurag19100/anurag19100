@@ -72,7 +72,7 @@ Feel free to drop me a 📧 at **anurag19100@gmail.com**
 
 
 
-<br>
+
 
 
 
@@ -108,7 +108,7 @@ I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.s
   <img align="left" alt="Harshitha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=super1-1star&show_icons=true&hide_border=true" />
 
 </details>
-<br>
+
 <details>
   <summary>:zap: Most Used Languages</summary>
 
