@@ -9,12 +9,33 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 
 <p  align="left"> 
+
+
+<!-- - 🔭 I’m currently working on a ML project 
+- 🌱 I’m currently learning Cloud Computing
+- 💬 Ask me about Soft Skills
+- 📫 How to reach me: [@harshithap22](https://twitter.com/harshithap22)
+- 😄 Pronouns: She/Her
+- -📝 [Resume](https://drive.google.com/file/d/1dIrNWiabQ54FLTKDdqPNiEifl6DstmNt/view?usp=sharing)
+- ⚡ Fun fact: I speak multiple languages. -->
+
+
 I am a pre-final C.S.E. student at IIIT Naya Raipur, who has solid foundations in Data Structures and Algorithms with a decent knowledge of MERN stack and experience in building interactive and user-centered websites designs. Also interested in Machine Learning and graphics design. A team player who loves to work with people from different domains and learn from their experiences.
 
 Currently Looking for a software intern position in similiar domain.
 </p>
 
 Feel free to drop me a 📧 at **anurag19100@gmail.com**
+
+
+
+
+### Connect with me:
+[<img align="left" alt="superstar | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][https://www.linkedin.com/in/anurag19100/]
+[<img align="left" alt="superstar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][https://twitter.com/Superstar_1_1]
+[<img align="left" alt="superstar | Instagram" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://anurag-cv.netlify.app/]
+<a target="_blank" href="mailto:anurag19100@gmail.com"><img align="left" alt="superstar | Email" width="60px" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<br>
 
 ## Connect with me:
 <p align="left" > 
