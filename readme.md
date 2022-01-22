@@ -33,7 +33,7 @@ Feel free to drop me a 📧 at **anurag19100@gmail.com**
 ### Connect with me:
 [<img align="left" alt="superstar | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="superstar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
-[<img align="left" alt="superstar | Instagram" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio/]
+[<img align="left" alt="superstar | Instagram" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 <a target="_blank" href="mailto:anurag19100@gmail.com"><img align="left" alt="superstar | Email" width="60px" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <br>
 
