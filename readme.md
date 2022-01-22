@@ -30,13 +30,13 @@ Feel free to drop me a 📧 at **anurag19100@gmail.com**
 
 
 
-### Connect with me:
+## Connect with me:
 [<img align="left" alt="superstar | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="superstar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
 [<img align="left" alt="superstar | Instagram" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 <a target="_blank" href="mailto:anurag19100@gmail.com"><img align="left" alt="superstar | Email" width="60px" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <br>
-
+<!-- 
 ## Connect with me:
 <p align="left" > 
 <a href="https://www.linkedin.com/in/anurag19100/" target="_blank" rel="noreferrer"  > <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"" alt="nextjs" height="30" style="margin-right: 200px;"/> </a>
@@ -44,7 +44,7 @@ Feel free to drop me a 📧 at **anurag19100@gmail.com**
 <a href="https://anurag-cv.netlify.app/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="nextjs" height="30" style="margin-right: 20px;"/> </a>
 </p>
 
-<br />
+<br /> -->
 
 ## Languages and Tools I use:
 
