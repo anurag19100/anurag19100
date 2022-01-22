@@ -92,15 +92,15 @@ I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.s
 </p>
 -- -->
 
-## &#x1f4c8; My GitHub Stats
+<!-- ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=super1-1star&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=super1-1star&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=super1-1star&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
 
-###
+## Stats
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -108,7 +108,7 @@ I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.s
   <img align="left" alt="Harshitha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=super1-1star&show_icons=true&hide_border=true" />
 
 </details>
-
+<br>
 <details>
   <summary>:zap: Most Used Languages</summary>
 
