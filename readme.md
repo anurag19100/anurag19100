@@ -31,9 +31,9 @@ Feel free to drop me a 📧 at **anurag19100@gmail.com**
 
 
 ### Connect with me:
-[<img align="left" alt="superstar | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][https://www.linkedin.com/in/anurag19100/]
-[<img align="left" alt="superstar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][https://twitter.com/Superstar_1_1]
-[<img align="left" alt="superstar | Instagram" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://anurag-cv.netlify.app/]
+[<img align="left" alt="superstar | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="superstar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
+[<img align="left" alt="superstar | Instagram" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio/]
 <a target="_blank" href="mailto:anurag19100@gmail.com"><img align="left" alt="superstar | Email" width="60px" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <br>
 
@@ -96,3 +96,10 @@ I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.s
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=super1-1star&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=super1-1star&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/anurag19100/
+[twitter]: https://twitter.com/Superstar_1_1
+[portfolio]: https://anurag-cv.netlify.app/
