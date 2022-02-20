@@ -11,18 +11,25 @@
 <p  align="left"> 
 
 
-<!-- - 🔭 I’m currently working on a ML project 
-- 🌱 I’m currently learning Cloud Computing
-- 💬 Ask me about Soft Skills
-- 📫 How to reach me: [@harshithap22](https://twitter.com/harshithap22)
-- 😄 Pronouns: She/Her
-- -📝 [Resume](https://drive.google.com/file/d/1dIrNWiabQ54FLTKDdqPNiEifl6DstmNt/view?usp=sharing)
-- ⚡ Fun fact: I speak multiple languages. -->
 
 
-I am a pre-final C.S.E. student at IIIT Naya Raipur, who has solid foundations in Data Structures and Algorithms with a decent knowledge of MERN stack and experience in building interactive and user-centered websites designs. Also interested in Machine Learning and graphics design. A team player who loves to work with people from different domains and learn from their experiences.
 
-Currently Looking for a software intern position in similiar domain.
+<!-- [Codechef](https://www.codechef.com/users/ayushm17) [Leetcode](https://leetcode.com/meharayush37/) -->
+- 🔭 I’m currently working on a project
+- 🌱 I’m currently learning Next.js and Tailwind CSS
+- 💬 Ask me about anythings
+- 📫 How to reach me: [@Superstar_1_1](https://twitter.com/Superstar_1_1)
+- 😄 Pronouns: He/Him
+- 📫 [Reach Me](mailto:meharayush37@gmail.com)
+- 📝 [Resume](https://drive.google.com/file/d/1H4bs4qlgiVsGccozvjjKJjwI00WMKsFE/view?usp=sharing)
+- ⚡ Fun fact: I speak multiple languages. 
+<!-- - ⚡ Stalk me at [Codeforces](https://codeforces.com/profile/_Blitzar_)  -->
+
+
+
+<!-- I am a pre-final C.S.E. student at IIIT Naya Raipur, who has solid foundations in Data Structures and Algorithms with a decent knowledge of MERN stack and experience in building interactive and user-centered websites designs. Also interested in Machine Learning and graphics design. A team player who loves to work with people from different domains and learn from their experiences.
+
+Currently Looking for a software intern position in similiar domain. -->
 </p>
 
 Feel free to drop me a 📧 at **anurag19100@gmail.com**
