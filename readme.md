@@ -17,7 +17,7 @@
 <!-- [Codechef](https://www.codechef.com/users/ayushm17) [Leetcode](https://leetcode.com/meharayush37/) -->
 - 🔭 I’m currently working on a project
 - 🌱 I’m currently learning Next.js and Tailwind CSS
-- 💬 Ask me about anythings
+- 💬 Ask me about anything
 - 📫 How to reach me: [@Superstar_1_1](https://twitter.com/Superstar_1_1)
 - 😄 Pronouns: He/Him
 - 📫 [Reach Me](mailto:meharayush37@gmail.com)
