@@ -18,7 +18,6 @@
 - 🔭 I’m currently working on a project
 - 🌱 I’m currently learning Next.js and Tailwind CSS
 - 💬 Ask me about anything
-<!-- - 📫 How to reach me: [@Superstar_1_1](https://twitter.com/Superstar_1_1) -->
 - 😄 Pronouns: He/Him
 - 📫 [Reach Me](mailto:anurag19100@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1H4bs4qlgiVsGccozvjjKJjwI00WMKsFE/view?usp=sharing)
@@ -28,7 +27,7 @@
 
 
 <!-- I am a pre-final C.S.E. student at IIIT Naya Raipur, who has solid foundations in Data Structures and Algorithms with a decent knowledge of MERN stack and experience in building interactive and user-centered websites designs. Also interested in Machine Learning and graphics design. A team player who loves to work with people from different domains and learn from their experiences.
-
+- 📫 How to reach me: [@Superstar_1_1](https://twitter.com/Superstar_1_1)
 Currently Looking for a software intern position in similiar domain. -->
 </p>
 
