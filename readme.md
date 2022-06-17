@@ -39,7 +39,7 @@ Feel free to drop me a 📧 at **anurag19100@gmail.com**
 ## Connect with me:
 [<img align="left" alt="superstar | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="superstar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
-[<img align="left" alt="superstar | Instagram" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
+[<img align="left" alt="superstar | portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 <a target="_blank" href="mailto:anurag19100@gmail.com"><img align="left" alt="superstar | Email" width="60px" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <br>
 <!-- 
@@ -56,7 +56,7 @@ Feel free to drop me a 📧 at **anurag19100@gmail.com**
 
 <p align="left"> 
 
-<code> <a href="https://nextjs.org/" target="_blank" rel="noreferrer" > <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="30"/> </a> </code> 
+<!-- <code> <a href="https://nextjs.org/" target="_blank" rel="noreferrer" > <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="30"/> </a> </code>  -->
 <code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="30"/> </a> </code> 
 <code> <a href="https://nodejs.org" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="30"/> </a> </code>
 <code>  <a href="https://expressjs.com" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> </code>
@@ -128,4 +128,4 @@ I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.s
 
 [linkedin]: https://www.linkedin.com/in/anurag19100/
 [twitter]: https://twitter.com/Superstar_1_1
-[portfolio]: https://anurag-cv.netlify.app/
+[portfolio]: https://anurag11.xyz/
