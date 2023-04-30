@@ -111,14 +111,14 @@ I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.s
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Harshitha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=super1-1star&show_icons=true&hide_border=true" />
+  <img align="left" alt="Harshitha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anurag19100&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Harshitha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=super1-1star" />
+<img align="left" alt="Harshitha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag19100" />
 
 </details>
 
@@ -127,5 +127,5 @@ I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.s
 
 
 [linkedin]: https://www.linkedin.com/in/anurag19100/
-[twitter]: https://twitter.com/Superstar_1_1
-[portfolio]: https://anurag11.xyz/
+[twitter]: https://twitter.com/anuragg19100
+[portfolio]: https://anurag-cv.netlify.app/
