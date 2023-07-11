@@ -15,8 +15,8 @@
 
 
 <!-- [Codechef](https://www.codechef.com/users/ayushm17) [Leetcode](https://leetcode.com/meharayush37/) -->
-- 🔭 I’m currently working on a project
-- 🌱 I’m currently learning Next.js and Tailwind CSS
+- 🔭 I’m currently working on different open source projects.
+- 🌱 I’m currently Seeking Opportunities in Software Development and Related Roles
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
 - 📫 [Reach Me](mailto:anurag19100@gmail.com)
