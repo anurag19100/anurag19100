@@ -1,8 +1,9 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" height="20px">, I am Anurag Gupta!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">, I am Anurag Gupta!
 
-<a href="https://www.linkedin.com/in/anurag-gupta-024a93191/">
+<a href="https://www.linkedin.com/in/anurag-gupta-19100/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/linkedin-svgrepo-com.svg" />
-</a> 
+</a>
+
 ---
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
@@ -14,18 +15,17 @@
 
 
 <!-- [Codechef](https://www.codechef.com/users/ayushm17) [Leetcode](https://leetcode.com/meharayush37/) -->
-- 🔭 I’m currently working on different open source projects.DevOps Engineer with over 1.5 years of experience designing, implementing, and optimizing cloud infrastructure and automation solutions at BigBasket. I’m passionate about building reliable, efficient, and scalable systems using cutting-edge tools and technologies.
+About Me
 
-🔭 Currently working on enhancing cloud infrastructure at BigBasket.
-🌱 Continuously learning and seeking new challenges in DevOps and cloud technologies.
-💬 Ask me about AWS, Kubernetes, Jenkins, Terraform, Python, and more.
+DevOps Engineer with over 2+ years of experience designing, implementing, and optimizing cloud infrastructure and automation solutions at BigBasket. I’m passionate about building reliable, efficient, and scalable systems using cutting-edge tools and technologies.
+
+- 🔭 Currently working on enhancing cloud infrastructure at BigBasket.
+- 🌱 Continuously learning and seeking new challenges in DevOps and cloud technologies.
+- 💬 Ask me about AWS, Kubernetes, Jenkins, Terraform, Python, and more.
 - 📫 [Reach Me](mailto:anurag19100@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1H4bs4qlgiVsGccozvjjKJjwI00WMKsFE/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1YJsajrXQ4jRRUEyHlCBZN50KbmmIup-p/view?usp=sharing)
 - ⚡ Fun fact: I enjoy automating processes to save time and reduce errors!
-- 💬 Ask me about anything
-- 😄 Pronouns: He/Him
-- 📫 [Reach Me](mailto:anurag19100@gmail.com)
-- ⚡ Fun fact: I speak multiple languages. 
+
 <!-- - ⚡ Stalk me at [Codeforces](https://codeforces.com/profile/_Blitzar_)  -->
 
 
@@ -41,10 +41,10 @@ Feel free to drop me a 📧 at **anurag19100@gmail.com**
 
 
 ## Connect with me:
-[<img align="left" alt="superstar | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="superstar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
+[<img align="left" alt="superstar | LinkedIn" width="22px" style = "padding:10px;" src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/linkedin-svgrepo-com.svg" />][linkedin]
+[<img align="left" alt="superstar | Twitter" width="22px" style = "padding:10px;" src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/twitter-color-svgrepo-com.svg" />][twitter]
 [<img align="left" alt="superstar | portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-<a target="_blank" href="mailto:anurag19100@gmail.com"><img align="left" alt="superstar | Email" width="60px" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a target="_blank" href="mailto:anurag19100@gmail.com"><img align="left" alt="superstar | Email" width="60px" style = "padding:10px;" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <br>
 <!-- 
 ## Connect with me:
