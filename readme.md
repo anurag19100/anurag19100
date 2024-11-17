@@ -51,44 +51,20 @@ Currently Looking for a software intern position in similiar domain. -->
 
 <p align="left">
 
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/aws-svgrepo-com (1).svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/aws-svgrepo-com (2).svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/aws-svgrepo-com (3).svg" alt="react" height="30"/> </a> </code>
 <code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/aws-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/docker-svgrepo-com (1).svg" alt="react" height="30"/> </a> </code>
 <code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/docker-svgrepo-com (2).svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/docker-svgrepo-com (3).svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/docker-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/elasticsearch-logo-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/elasticsearch-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/grafana-svgrepo-com (1).svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/grafana-svgrepo-com (2).svg" alt="react" height="30"/> </a> </code>
+<code> <a href="https://www.linux.org/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="30"/> </a> </code>
+
 <code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/grafana-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
 <code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/hashicorp-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
 <code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/jenkins-svgrepo-com (1).svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/jenkins-svgrepo-com (2).svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/jenkins-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
 <code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/kibana-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/kubernetes-16-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
 <code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/kubernetes-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/linkedin-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/linux-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/linux-tux-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
 <code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/logstash-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
 <code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/netlify-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/platform-kubernetes-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/prometheus-svgrepo-com (1).svg" alt="react" height="30"/> </a> </code>
 <code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/prometheus-svgrepo-com (2).svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/prometheus-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/python-svgrepo-com (1).svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/python-svgrepo-com (2).svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/python-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
+<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/elasticsearch-logo-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
 <code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/terminal-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/terraform-icon-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/terraform-svgrepo-com (1).svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/terraform-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
-<code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/twitter-color-svgrepo-com.svg" alt="react" height="30"/> </a> </code>
-
 <code> <a href="https://reactjs.org/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="30"/> </a> </code>
 <code> <a href="https://nodejs.org" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="30"/> </a> </code>
 <code> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30"/> </a> </code>
@@ -102,7 +78,7 @@ Currently Looking for a software intern position in similiar domain. -->
 <code> <a href="https://git-scm.com/" target="_blank" rel="noreferrer" > <img src="https://user-images.githubusercontent.com/64637806/118023892-f8a3ab80-b355-11eb-9d15-387bb21416ea.png" alt="git" height="30"/> </a> </code>
 <code> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" height="30"/> </a> </code>
 <code> <a href="https://www.figma.com/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="30"/> </a> </code>
-<code> <a href="https://www.linux.org/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="30"/> </a> </code>
+
 
 </p>
 
