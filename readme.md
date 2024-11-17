@@ -1,9 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" height="20px">, I am Anurag Gupta!
 
 <a href="https://www.linkedin.com/in/anurag-gupta-024a93191/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/anurag19100/anurag19100/master/assets/icon/linkedin-svgrepo-com.svg" />
 </a> 
-
 ---
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
@@ -15,12 +14,17 @@
 
 
 <!-- [Codechef](https://www.codechef.com/users/ayushm17) [Leetcode](https://leetcode.com/meharayush37/) -->
-- 🔭 I’m currently working on different open source projects.
-- 🌱 I’m currently Seeking Opportunities in Software Development and Related Roles
+- 🔭 I’m currently working on different open source projects.DevOps Engineer with over 1.5 years of experience designing, implementing, and optimizing cloud infrastructure and automation solutions at BigBasket. I’m passionate about building reliable, efficient, and scalable systems using cutting-edge tools and technologies.
+
+🔭 Currently working on enhancing cloud infrastructure at BigBasket.
+🌱 Continuously learning and seeking new challenges in DevOps and cloud technologies.
+💬 Ask me about AWS, Kubernetes, Jenkins, Terraform, Python, and more.
+- 📫 [Reach Me](mailto:anurag19100@gmail.com)
+- 📝 [Resume](https://drive.google.com/file/d/1H4bs4qlgiVsGccozvjjKJjwI00WMKsFE/view?usp=sharing)
+- ⚡ Fun fact: I enjoy automating processes to save time and reduce errors!
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
 - 📫 [Reach Me](mailto:anurag19100@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1H4bs4qlgiVsGccozvjjKJjwI00WMKsFE/view?usp=sharing)
 - ⚡ Fun fact: I speak multiple languages. 
 <!-- - ⚡ Stalk me at [Codeforces](https://codeforces.com/profile/_Blitzar_)  -->
 
