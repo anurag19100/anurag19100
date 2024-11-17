@@ -11,9 +11,6 @@
 <p  align="left">
 
 <!-- [Codechef](https://www.codechef.com/users/ayushm17) [Leetcode](https://leetcode.com/meharayush37/) -->
-
-About Me
-
 DevOps Engineer with over 2+ years of experience designing, implementing, optimizing cloud infrastructure and automation solutions. I’m passionate about building reliable, efficient, and scalable systems using cutting-edge tools and technologies.
 
 - 🔭 Currently working on enhancing cloud infrastructure at BigBasket.
@@ -21,6 +18,12 @@ DevOps Engineer with over 2+ years of experience designing, implementing, optimi
 - 💬 Ask me about AWS, Kubernetes, Jenkins, Terraform, Python, and more.
 - ⚡ Fun fact: I enjoy automating processes to save time and reduce errors!
 - 📫 [Reach Me](mailto:anurag19100@gmail.com)
+
+🔭 Currently working on enhancing cloud infrastructure at BigBasket.
+🌱 Continuously learning and seeking new challenges in DevOps and cloud technologies.
+💬 Ask me about AWS, Kubernetes, Jenkins, Terraform, Python, and more.
+⚡ Fun fact: I enjoy automating processes to save time and reduce errors!
+📫 [Reach Me](mailto:anurag19100@gmail.com)
 
 <!-- - ⚡ Stalk me at [Codeforces](https://codeforces.com/profile/_Blitzar_)  -->
 
