@@ -12,22 +12,11 @@
 
 <!-- [Codechef](https://www.codechef.com/users/ayushm17) [Leetcode](https://leetcode.com/meharayush37/) -->
 DevOps Engineer with over 2+ years of experience designing, implementing, optimizing cloud infrastructure and automation solutions. I’m passionate about building reliable, efficient, and scalable systems using cutting-edge tools and technologies.
-
-<!-- - 🔭 Currently working on enhancing cloud infrastructure at BigBasket.
+- 🔭 Currently working on enhancing cloud infrastructure at BigBasket.
 - 🌱 Continuously learning and seeking new challenges in DevOps and cloud technologies.
 - 💬 Ask me about AWS, Kubernetes, Jenkins, Terraform, Python, and more.
 - ⚡ Fun fact: I enjoy automating processes to save time and reduce errors!
-- 📫 [Reach Me](mailto:anurag19100@gmail.com) -->
-
-🔭 Currently working on enhancing cloud infrastructure at BigBasket.
-
-🌱 Continuously learning and seeking new challenges in DevOps and cloud technologies.
-
-💬 Ask me about AWS, Kubernetes, Jenkins, Terraform, Python, and more.
-
-⚡ Fun fact: I enjoy automating processes to save time and reduce errors!
-📫 [Reach Me](mailto:anurag19100@gmail.com)
-
+- 📫 [Reach Me](mailto:anurag19100@gmail.com)
 <!-- - ⚡ Stalk me at [Codeforces](https://codeforces.com/profile/_Blitzar_)  -->
 
 <!-- I am a pre-final C.S.E. student at IIIT Naya Raipur, who has solid foundations in Data Structures and Algorithms with a decent knowledge of MERN stack and experience in building interactive and user-centered websites designs. Also interested in Machine Learning and graphics design. A team player who loves to work with people from different domains and learn from their experiences.
