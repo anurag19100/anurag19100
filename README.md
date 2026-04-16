@@ -2,12 +2,12 @@
 
 <p align="center">
   <b>Sr. DevOps Engineer @ Blackduck (formerly Synopsys)</b><br>
-  <i>Building infrastructure at scale — 5x Cloud Certified</i>
+  <!-- <i>Building infrastructure at scale — 5x Cloud Certified</i> -->
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anurag19100/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://anurag-devops.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-00ff41?style=flat-square&logo=netlify&logoColor=black" /></a>
+  <!-- <a href="https://anurag-devops.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-00ff41?style=flat-square&logo=netlify&logoColor=black" /></a> -->
   <a href="mailto:anurag19100@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://calendly.com/anurag19100/30min"><img src="https://img.shields.io/badge/-Schedule_Call-006BFF?style=flat-square&logo=calendly&logoColor=white" /></a>
 </p>
@@ -20,7 +20,7 @@ DevOps Engineer with ~4 years of experience designing, implementing, and optimiz
 
 - :office: **Currently:** Sr. DevOps Engineer @ **Blackduck** — Enterprise security, global scale
 - :rewind: **Previously:** DevOps Engineer @ **BigBasket** — Quick-commerce, zero-downtime migrations
-- :cloud: **5x Certified:** AWS + GCP + Kubernetes + Terraform + Linux
+  <!-- :cloud: **5x Certified:** AWS + GCP + Kubernetes + Terraform + Linux -->
 - :lock: **Focus:** Platform Engineering, GitOps, Service Mesh, Observability, Security
 
 ---
@@ -48,15 +48,6 @@ DevOps Engineer with ~4 years of experience designing, implementing, and optimiz
 
 ---
 
-### Certifications
-
-| Certification | Issuer |
-|---|---|
-| Google Cloud Professional Cloud Architect | Google Cloud |
-| AWS Solutions Architect - Associate (SAA-C03) | AWS |
-| Certified Kubernetes Administrator (CKA) | CNCF |
-| Terraform Associate (003) | HashiCorp |
-| Linux Foundation Certified System Administrator (LFCS) | Linux Foundation |
 
 ---
 
