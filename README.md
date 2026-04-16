@@ -49,21 +49,7 @@ DevOps Engineer with ~4 years of experience designing, implementing, and optimiz
 ---
 
 
----
 
-### Key Highlights
-
-**@ Blackduck (formerly Synopsys)**
-- Migrated 60+ GKE clusters to Kubernetes 1.28+ with zero-downtime rolling upgrades
-- Built Chainguard-based image supply chain with Sigstore verification — zero CVEs in base images
-- Implemented FedRAMP-aligned audit logging with immutable CloudTrail + GCS sinks
-- Designed multi-region DR architecture with 99.95% uptime SLA across 3 GCP regions
-
-**@ BigBasket**
-- Migrated 100+ microservices across EKS versions with zero downtime
-- Built CLI tool for self-service access management — cut access provisioning time by 90%
-- Implemented KEDA for event-driven autoscaling using CloudWatch triggers
-- Optimized cloud spend by $20K/month through spot instances and right-sizing
 
 ---
 
