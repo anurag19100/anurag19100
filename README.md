@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Anurag Gupta <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"></h1>
 
 <p align="center">
-  <b>Sr. DevOps Engineer @ Blackduck (formerly Synopsys)</b><br>
+  <b>Sr. DevOps Engineer @ Blackduck (formerly Synopsys SIG)</b><br>
   <!-- <i>Building infrastructure at scale — 5x Cloud Certified</i> -->
 </p>
 
