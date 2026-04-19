@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Anurag Gupta <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"></h1>
+<!-- <h1 align="center">Hey, I'm Anurag Gupta <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"></h1>
 
 <p align="center">
   <b>Sr. DevOps Engineer @ Blackduck (formerly Synopsys SIG)</b><br>
@@ -46,7 +46,7 @@ DevOps Engineer with ~4 years of experience designing, implementing, and optimiz
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 </p>
 
----
+--- -->
 
 
 
